@@ -4,6 +4,7 @@ This script was made to aid the process of migrating PHP and MySQL based website
 
 If you find a problem let us know in the issues area and if you can improve the code then please fork the repository and send us a pull request :)
 
+Added support for PHP 7.x and JSON data type.
 ## Warnings & Limitations
 
 1. Three character UTF8 seems to break in certain cases.
